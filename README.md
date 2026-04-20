@@ -137,6 +137,8 @@ This project is configured to run as a background service using **Task Scheduler
 
 ##  Example Output
 
+![Weather Output](ExampleWeather.png)
+
 ```
 Weather Report
 
